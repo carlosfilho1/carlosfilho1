@@ -4,15 +4,15 @@ Teste profile
 
 <p align="left">
    <a href="#">
-    <img src="iconProfile/html.png" alt="badge" style="vertical-align:top margin:6px 4px">
+    <img src="iconProfile/html.png" alt="badge" style="vertical-align:top margin:6px 6px">
   </a> 
    
    <a href="#">
-    <img src="iconProfile/css3.png" alt="badge" style="vertical-align:top margin:6px 4px">
+    <img src="iconProfile/css3.png" alt="badge" style="vertical-align:top margin:6px 6px">
    </a> 
   
    <a href="#">
-    <img src="iconProfile/js.png" alt="badge" style="vertical-align:top margin:6px 4px">
+    <img src="iconProfile/js.png" alt="badge" style="vertical-align:top margin:6px 6px">
    </a> 
    
 </p>

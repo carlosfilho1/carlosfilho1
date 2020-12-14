@@ -1,6 +1,4 @@
-Hi Guys!!
-
-Hey Guys, I’m Carlos Tadeu
+## :wave: Hey Guys! I’m Carlos Tadeu </p>
 
 I’ am a system analyst, working for over 6 years in the IT market (Infra).
 In 2019 I started my studies in C # / .Net, Java and Web development. The main focus and objective is web programming and research projects for automation. 

@@ -16,9 +16,6 @@
     <img src="iconProfile/js.png" alt="badge" style="vertical-align:top margin:6px 6px">
    </a> 
 
-   <a href="#">
-    <img src="iconProfile/js.png" alt="badge" style="vertical-align:top margin:6px 6px">
-   </a> 
 
    <a href="#">
     <img src="iconProfile/java.png" alt="badge" style="vertical-align:top margin:6px 6px">

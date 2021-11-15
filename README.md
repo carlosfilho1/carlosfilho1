@@ -24,7 +24,7 @@
    <a href="#">
     <img src="iconProfile/csharp_dotnet.png" alt="badge" style="vertical-align:top margin:6px 6px">
    </a> 
-   <a href="#"
-      <img src="img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="badge" style="vertical-align:top margin:6px 6px" />
+   <a href="#">
+      <img src="img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
    </a>
 </p>

@@ -8,22 +8,27 @@
 
    
 <!-- Info    -->
-   
-<p align="center">
+<div>
+   <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosfilho1&show_icons=true&theme=dracula"/>
    </p>
+</div>
+
+<div align="center"> 
+      <img float="left" src="https://github-readme-stats.vercel.app/api?username=carlosfilho1&show_icons=true&theme=dracula"/>
+      <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfilho1&show_icons=true&theme=dracula"/>
+
+</div>
    
-   <p align="left">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosfilho1&show_icons=true&theme=dracula"/>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfilho1&show_icons=true&theme=dracula"/>
-   </p>
-   <br><br><br><br><br><br><br><br><br><br><br>
+
+<!--    <br><br><br><br><br><br><br><br><br><br><br> -->
    
 <!--  Info END   -->
 
 
 
-
+<div>
+   <div class="left">
 * Language
 <p>
    <a>
@@ -32,7 +37,11 @@
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <!--CShape-->
    </a>
 </p>
-
+   </div>
+   
+   
+</div>
+     
 * Database
 <p>
    <a>

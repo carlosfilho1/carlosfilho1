@@ -16,7 +16,7 @@
 
 <div align="center"> 
       <img float="left" src="https://github-readme-stats.vercel.app/api?username=carlosfilho1&show_icons=true&theme=dracula"/>
-      <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfilho1&show_icons=true&theme=dracula"/>
+      <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfilho1&layout=compact&theme=dracula"/>
 
 </div>
    

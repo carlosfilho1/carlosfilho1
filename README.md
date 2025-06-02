@@ -1,7 +1,6 @@
 ## :wave: Hey Guys! I’m Carlos Tadeu </p>
 
-##### I’ am a system analyst, working for over 6 years in the IT market (Infra).
-##### Graduated in Information Technology Management and Specialist in Project Management, working in the IT area for over 8 years, with extensive experience in the area of support, infrastructure and training of software. Programming development in progress with focus on java language and its frameworks. Brief summary of my skills and hobby down.
+##### "+10 years in IT, from the beginning to the end. Today, building efficient and scalable back-end solutions with Python, Java, and a touch of DevOps. Degree in IT Management and MBA in Project Management."
 
 
 ##### Access to Linkedin: <a href="https://www.linkedin.com/in/carlos-tadeu-944766101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
